@@ -5,3 +5,4 @@ for detailed description of intermediate values
 and
 https://media.discordapp.net/attachments/759117420681363517/793860011608244284/unknown.png
 for basic cocomo
+reset button not done yet
